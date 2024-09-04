@@ -29,7 +29,6 @@ android {
         namespace "com.pusher.channels_flutter"
     }
 
-
     compileSdkVersion 33
 
     compileOptions {
